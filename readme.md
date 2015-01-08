@@ -1,6 +1,6 @@
 # Gulp Graphics Starter
 
-This gulp setup was based on the much more excellent (Gulp Starter Repo)[https://github.com/greypants/gulp-starter] and associted (blog post)[http://viget.com/extend/gulp-browserify-starter-faq]. If this is new to you definitely start there. 
+This gulp setup was based on the much more excellent [Gulp Starter Repo](https://github.com/greypants/gulp-starter) and associted [blog post](http://viget.com/extend/gulp-browserify-starter-faq). If this is new to you definitely start there. 
 
 ## Getting Started 
 
