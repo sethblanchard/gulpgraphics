@@ -1,0 +1,24 @@
+/* line 1, /Users/blanchards/Development/gulp-trial/sass/app.scss */
+body {
+  background: #eee; }
+
+/* line 5, /Users/blanchards/Development/gulp-trial/sass/app.scss */
+h1 {
+  font-size: 2em;
+  color: black; }
+
+/* line 10, /Users/blanchards/Development/gulp-trial/sass/app.scss */
+img {
+  width: 40px;
+  float: left;
+  margin-top: 20px; }
+
+/* line 16, /Users/blanchards/Development/gulp-trial/sass/app.scss */
+li {
+  margin-bottom: 40px;
+  list-style: none;
+  padding: 0;
+  margin-top: 0; }
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQTtFQUNDLFlBQVk7OztBQUdiO0VBQ0MsV0FBVTtFQUNWLE9BQU07OztBQUdQO0VBQ0MsT0FBTTtFQUNOLE9BQU07RUFDTixZQUFXOzs7QUFHWjtFQUNDLGVBQWM7RUFDZCxZQUFXO0VBQ1gsU0FBUTtFQUNSLFlBQVciLCJmaWxlIjoiYXBwLmNzcyIsInNvdXJjZXNDb250ZW50IjpbImJvZHl7XG5cdGJhY2tncm91bmQ6ICNlZWU7XG59XG5cbmgxe1xuXHRmb250LXNpemU6MmVtO1xuXHRjb2xvcjpibGFjaztcbn1cblxuaW1ne1xuXHR3aWR0aDo0MHB4O1xuXHRmbG9hdDpsZWZ0O1xuXHRtYXJnaW4tdG9wOjIwcHg7XG59XG5cbmxpe1xuXHRtYXJnaW4tYm90dG9tOjQwcHg7XG5cdGxpc3Qtc3R5bGU6bm9uZTtcblx0cGFkZGluZzowO1xuXHRtYXJnaW4tdG9wOjA7XG59Il0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9 */
